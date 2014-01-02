@@ -21,7 +21,7 @@
 						$has_gallery = true;
 						$img_info = gallery_toolbox($galeries_photos);
 						
-						// gallery_toolbox() = located in functions.php
+						// gallery_toolbox() = located in gallery-function.php
 					
 					}			
     				
