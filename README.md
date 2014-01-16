@@ -1,7 +1,7 @@
 img-gallery
 ===========
 
-A little WordPress module used for the creating of image galleries. It works together with [Advanced Custom Fields](http://www.advancedcustomfields.com/), using the [Gallery Field](http://www.advancedcustomfields.com/add-ons/gallery-field/) add-on.
+A little WordPress module used for the display of image galleries. It works together with [Advanced Custom Fields](http://www.advancedcustomfields.com/), using the [Gallery Field](http://www.advancedcustomfields.com/add-ons/gallery-field/) add-on.
 
 ## Implementation
 
