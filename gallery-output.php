@@ -7,7 +7,6 @@
     
     if ($has_gallery == true) { 
     	
-    		
     			// initialize
     			$counter = 0;
     			
