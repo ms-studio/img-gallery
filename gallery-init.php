@@ -27,8 +27,11 @@
 
 					if  ( $galeries_photos[0] > 0) {
 					
-						$has_gallery = true;
 						$img_info = gallery_toolbox($galeries_photos);
+						
+						if ($img_info) {
+							$has_gallery = true;
+						}
 						
 						// gallery_toolbox() is located in gallery-function.php
 					
