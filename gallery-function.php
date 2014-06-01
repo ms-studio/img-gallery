@@ -89,6 +89,7 @@ function gallery_toolbox($img_list = array(),$size = 'thumbnail') {
 									
 									"caption" => $image["caption"],
 									"alt" => $image["alt"],
+									"title" => $image["title"],
 									// "gallery-title" => $gallery_title,
 									// "gallery-descr" => $gallery_description,
 							);
